@@ -1,4 +1,4 @@
 # dataTrack
 
-This is a fullstack CRUD (Create, Read, Update, Delete) application built using the Express framework and nodeJS with HTML, CSS, and JavaScript, while connecting to MySQL to store the database. This application allows users to perform basic CRUD operations on a database of their choice.
+This is a fullstack data track application built using the Express framework and nodeJS with HTML, CSS, and JavaScript. Connecting to MySQL to store the database, it allows users to perform create, edit, delete and search operations of their own choice of database.
 
